@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.api.progress">
+    <module_version install_time="1472884547694" last="true" origin="Ant" specification_version="1.47">
+        <file crc="1135744155" name="config/ModuleAutoDeps/org-netbeans-api-progress.xml"/>
+        <file crc="1605883752" name="config/Modules/org-netbeans-api-progress.xml"/>
+        <file crc="655960018" name="modules/locale/org-netbeans-api-progress_de.jar"/>
+        <file crc="2646213120" name="modules/locale/org-netbeans-api-progress_es.jar"/>
+        <file crc="2925632720" name="modules/locale/org-netbeans-api-progress_fr.jar"/>
+        <file crc="1219763037" name="modules/locale/org-netbeans-api-progress_it.jar"/>
+        <file crc="1810019816" name="modules/locale/org-netbeans-api-progress_ja.jar"/>
+        <file crc="1981389167" name="modules/locale/org-netbeans-api-progress_ko.jar"/>
+        <file crc="3778289485" name="modules/locale/org-netbeans-api-progress_pt_BR.jar"/>
+        <file crc="1553731417" name="modules/locale/org-netbeans-api-progress_zh_CN.jar"/>
+        <file crc="2538658395" name="modules/locale/org-netbeans-api-progress_zh_TW.jar"/>
+        <file crc="629299775" name="modules/org-netbeans-api-progress.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,73 @@
+package ntran.aliens;
+
+public class Alien {
+
+	private int health;
+	private String name;
+	
+	public Alien(){
+		name = "NO name";
+		health = 0;
+	}
+	public Alien(int health, String name){
+		if (name == null || health < 0){
+			name = "No name";
+			health = 0;
+		}
+		else{
+			this.name = name;
+			this.health = health;
+		}
+	
+	}
+	public Alien (Alien that){
+		this.health=that.health;
+		this.name=that.name;
+	}
+		/**
+		 * @return the health
+		 */
+		public int getHealth() {
+			return health;
+		}
+		/**
+		 * @param health the health to set
+		 */
+		public void setHealth(int health) {
+			this.health = health;
+		}
+		/**
+		 * @return the name
+		 */
+		public String getName() {
+			return name;
+		}
+		/**
+		 * @param name the name to set
+		 * @return 
+		 */
+		public void setDamage (int damage){
+			this.damage = damage;
+		}
+		public void setName(String name) {
+			if (name == null)
+				name = "No name";
+			this.name = name;
+		}
+		@Override
+		public boolean equals(Object o){
+			if (o==null)
+				return false;
+			if (o.getClass()!=this.getClass())
+				return false;
+			Alien that = (Alien)o;
+			
+			return name.equals(that.name)&&health==that.health&&damage=that.damage;
+					
+		}
+		@Override
+		public String toString(){
+			return "Name: " +name+", health = "+health;
+		}
+
+}

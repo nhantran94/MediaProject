@@ -1,0 +1,30 @@
+package ntran.arrays;
+
+public class MyClass {
+
+    private static int a;
+
+    public MyClass(){
+             a++;
+    }
+
+    public int getCount(){
+         return a;
+    }
+
+    public void setCount(int x) {
+          a = x;
+    }
+
+    public static void main(String[] zippydooda) {
+
+      MyClass xxx = new MyClass() ;
+      MyClass yyy = new MyClass();
+      MyClass zzz = new MyClass();
+
+     System.out.println(xxx.getCount());
+     yyy.setCount(10);
+     System.out.println(yyy.getCount());
+     System.out.println(zzz.getCount());
+     }
+}

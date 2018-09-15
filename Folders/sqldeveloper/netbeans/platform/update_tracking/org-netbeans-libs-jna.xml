@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.jna">
+    <module_version install_time="1472884539941" last="true" origin="Ant" specification_version="1.44">
+        <file crc="1637808577" name="config/Modules/org-netbeans-libs-jna.xml"/>
+        <file crc="3894525640" name="modules/ext/jna-4.2.2.jar"/>
+        <file crc="1019005622" name="modules/lib/amd64/jnidispatch-422.dll"/>
+        <file crc="807941825" name="modules/lib/amd64/linux/libjnidispatch-422.so"/>
+        <file crc="1622503364" name="modules/lib/i386/linux/libjnidispatch-422.so"/>
+        <file crc="3276311828" name="modules/lib/libjnidispatch-422.jnilib"/>
+        <file crc="1958898508" name="modules/lib/x86/jnidispatch-422.dll"/>
+        <file crc="2910915307" name="modules/locale/org-netbeans-libs-jna_de.jar"/>
+        <file crc="1626709807" name="modules/locale/org-netbeans-libs-jna_es.jar"/>
+        <file crc="1607746875" name="modules/locale/org-netbeans-libs-jna_fr.jar"/>
+        <file crc="1163678468" name="modules/locale/org-netbeans-libs-jna_it.jar"/>
+        <file crc="2879245589" name="modules/locale/org-netbeans-libs-jna_ja.jar"/>
+        <file crc="2898337827" name="modules/locale/org-netbeans-libs-jna_ko.jar"/>
+        <file crc="2499591230" name="modules/locale/org-netbeans-libs-jna_pt_BR.jar"/>
+        <file crc="3485498318" name="modules/locale/org-netbeans-libs-jna_zh_CN.jar"/>
+        <file crc="3257973318" name="modules/locale/org-netbeans-libs-jna_zh_TW.jar"/>
+        <file crc="2911222341" name="modules/org-netbeans-libs-jna.jar"/>
+    </module_version>
+</module>

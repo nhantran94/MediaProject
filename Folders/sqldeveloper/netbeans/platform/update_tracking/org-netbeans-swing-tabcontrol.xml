@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.swing.tabcontrol">
+    <module_version install_time="1472885446169" last="true" origin="Ant" specification_version="1.56">
+        <file crc="327432460" name="config/Modules/org-netbeans-swing-tabcontrol.xml"/>
+        <file crc="3449590910" name="modules/locale/org-netbeans-swing-tabcontrol_de.jar"/>
+        <file crc="2823981308" name="modules/locale/org-netbeans-swing-tabcontrol_es.jar"/>
+        <file crc="3707298848" name="modules/locale/org-netbeans-swing-tabcontrol_fr.jar"/>
+        <file crc="1470132960" name="modules/locale/org-netbeans-swing-tabcontrol_it.jar"/>
+        <file crc="2299001489" name="modules/locale/org-netbeans-swing-tabcontrol_ja.jar"/>
+        <file crc="2315037332" name="modules/locale/org-netbeans-swing-tabcontrol_ko.jar"/>
+        <file crc="2017844581" name="modules/locale/org-netbeans-swing-tabcontrol_pt_BR.jar"/>
+        <file crc="1589665956" name="modules/locale/org-netbeans-swing-tabcontrol_zh_CN.jar"/>
+        <file crc="449441459" name="modules/locale/org-netbeans-swing-tabcontrol_zh_TW.jar"/>
+        <file crc="713534770" name="modules/org-netbeans-swing-tabcontrol.jar"/>
+    </module_version>
+</module>

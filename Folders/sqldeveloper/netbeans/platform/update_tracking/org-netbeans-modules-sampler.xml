@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.sampler">
+    <module_version install_time="1472885458314" last="true" origin="Ant" specification_version="1.14">
+        <file crc="3630527653" name="config/Modules/org-netbeans-modules-sampler.xml"/>
+        <file crc="2336399225" name="modules/locale/org-netbeans-modules-sampler_de.jar"/>
+        <file crc="362455421" name="modules/locale/org-netbeans-modules-sampler_es.jar"/>
+        <file crc="916880120" name="modules/locale/org-netbeans-modules-sampler_fr.jar"/>
+        <file crc="1717903299" name="modules/locale/org-netbeans-modules-sampler_it.jar"/>
+        <file crc="526792715" name="modules/locale/org-netbeans-modules-sampler_ja.jar"/>
+        <file crc="1019343774" name="modules/locale/org-netbeans-modules-sampler_pt_BR.jar"/>
+        <file crc="3295378676" name="modules/locale/org-netbeans-modules-sampler_zh_CN.jar"/>
+        <file crc="539940148" name="modules/org-netbeans-modules-sampler.jar"/>
+    </module_version>
+</module>

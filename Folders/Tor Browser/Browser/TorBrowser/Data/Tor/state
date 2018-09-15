@@ -1,0 +1,37 @@
+# Tor state file last generated on 2017-10-30 18:30:34 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard papadouka E2920D7419B7601CF82D43400D042DA70E0675B2 DirCache
+EntryGuardAddedBy E2920D7419B7601CF82D43400D042DA70E0675B2 0.2.8.7 2017-10-18 23:22:46
+EntryGuardPathBias 22.000000 22.000000 22.000000 0.000000 0.000000 0.000000
+EntryGuardPathUseBias 14.000000 14.000000
+EntryGuard quadhead BF0FB582E37F738CD33C3651125F2772705BB8E8 DirCache
+EntryGuardAddedBy BF0FB582E37F738CD33C3651125F2772705BB8E8 0.2.8.7 2017-10-18 16:26:27
+EntryGuard mulloy 31419A64188BC8070EE89F3CEE6AA98EAAC7E8E8 DirCache
+EntryGuardAddedBy 31419A64188BC8070EE89F3CEE6AA98EAAC7E8E8 0.2.8.7 2017-10-12 11:24:01
+TorVersion Tor 0.2.8.7 (git-263088633a63982a)
+LastWritten 2017-10-30 22:30:34
+TotalBuildTimes 72
+CircuitBuildTimeBin 525 3
+CircuitBuildTimeBin 575 8
+CircuitBuildTimeBin 625 6
+CircuitBuildTimeBin 675 8
+CircuitBuildTimeBin 725 4
+CircuitBuildTimeBin 775 7
+CircuitBuildTimeBin 825 7
+CircuitBuildTimeBin 875 4
+CircuitBuildTimeBin 925 7
+CircuitBuildTimeBin 975 2
+CircuitBuildTimeBin 1025 3
+CircuitBuildTimeBin 1075 2
+CircuitBuildTimeBin 1125 1
+CircuitBuildTimeBin 1175 1
+CircuitBuildTimeBin 1375 2
+CircuitBuildTimeBin 1425 1
+CircuitBuildTimeBin 1475 1
+CircuitBuildTimeBin 1725 1
+CircuitBuildTimeBin 1875 1
+CircuitBuildTimeBin 2225 1
+CircuitBuildTimeBin 7625 1
+CircuitBuildTimeBin 16725 1

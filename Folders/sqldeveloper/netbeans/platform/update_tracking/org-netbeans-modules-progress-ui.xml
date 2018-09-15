@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.progress.ui">
+    <module_version install_time="1472885095606" last="true" origin="Ant" specification_version="1.33">
+        <file crc="3222128542" name="config/Modules/org-netbeans-modules-progress-ui.xml"/>
+        <file crc="462542162" name="modules/locale/org-netbeans-modules-progress-ui_de.jar"/>
+        <file crc="2460644154" name="modules/locale/org-netbeans-modules-progress-ui_es.jar"/>
+        <file crc="3136129874" name="modules/locale/org-netbeans-modules-progress-ui_fr.jar"/>
+        <file crc="671655674" name="modules/locale/org-netbeans-modules-progress-ui_it.jar"/>
+        <file crc="567743979" name="modules/locale/org-netbeans-modules-progress-ui_ja.jar"/>
+        <file crc="2031466150" name="modules/locale/org-netbeans-modules-progress-ui_ko.jar"/>
+        <file crc="3192650745" name="modules/locale/org-netbeans-modules-progress-ui_pt_BR.jar"/>
+        <file crc="1043434188" name="modules/locale/org-netbeans-modules-progress-ui_zh_CN.jar"/>
+        <file crc="1046483379" name="modules/locale/org-netbeans-modules-progress-ui_zh_TW.jar"/>
+        <file crc="334078482" name="modules/org-netbeans-modules-progress-ui.jar"/>
+    </module_version>
+</module>

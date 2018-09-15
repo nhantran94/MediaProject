@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.libs.asm">
+    <module_version install_time="1472884472217" last="true" origin="Ant" specification_version="5.3">
+        <file crc="1416068039" name="core/asm-all-5.0.1.jar"/>
+        <file crc="4074336235" name="core/locale/org-netbeans-libs-asm_de.jar"/>
+        <file crc="195414275" name="core/locale/org-netbeans-libs-asm_es.jar"/>
+        <file crc="3296340825" name="core/locale/org-netbeans-libs-asm_fr.jar"/>
+        <file crc="796766036" name="core/locale/org-netbeans-libs-asm_it.jar"/>
+        <file crc="2991598365" name="core/locale/org-netbeans-libs-asm_ja.jar"/>
+        <file crc="3327114598" name="core/locale/org-netbeans-libs-asm_pt_BR.jar"/>
+        <file crc="2495414171" name="core/locale/org-netbeans-libs-asm_zh_CN.jar"/>
+        <file crc="3830239079" name="core/org-netbeans-libs-asm.jar"/>
+    </module_version>
+</module>

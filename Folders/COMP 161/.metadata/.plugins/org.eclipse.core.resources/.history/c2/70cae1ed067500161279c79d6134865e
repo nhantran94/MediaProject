@@ -1,0 +1,11 @@
+package ntran.arrays;
+
+public class ArrayDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int[] name = new int [10];
+for (int i = 0; i < name.length;i++);
+	}
+
+}

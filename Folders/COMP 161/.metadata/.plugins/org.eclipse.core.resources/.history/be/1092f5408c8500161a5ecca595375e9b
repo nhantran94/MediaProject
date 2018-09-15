@@ -1,0 +1,22 @@
+package ntran.chapter7;
+
+public class Employee 
+{
+	private String name;
+	private Date hireDate;
+	
+	public Employee(){
+		name = "No Name";
+		hireDate = new Date("January 1",1,2000);
+		
+	}
+	public Employee(String name, Date hireDate){
+		if (name == null || hireDate == null){
+			System.out.println("Fatal error creating Employee object!");
+			System.exit(0);
+			
+		}
+		this.name = name;
+		this.hireDate = hireDate;
+	}
+}
